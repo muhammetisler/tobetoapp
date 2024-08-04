@@ -4,10 +4,6 @@ Tobeto Mobil Uygulaması, kullanıcılarına iş dünyası ve girişimcilik konu
 
 Proje Detayları
 
-✨Başlangıç ​​Ekranı
-Uygulama açıldığında gösterilen ilk ekran. Kullanıcı internet kontrolünü gerçekleştirir.
-
-
 ✨Giriş Ekranı
 Kullanıcıların e-posta ve şifre ile giriş yapabileceği ekran.
 
