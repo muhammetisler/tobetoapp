@@ -35,9 +35,9 @@ Tobeto platformuna özgü çeşitli içeriklerin ve özelliklerin yer aldığı 
 
 ✨Ekip Üyeleri
 
-Muhammet Fatih İşler
+[Muhammet Fatih İşler](https://github.com/muhammetisler)
 
-Zeynep Tunayabakan
+[Zeynep Tunayabakan](https://github.com/zeyneptunayabakan)
 
 
 Ekran Görüntüleri
