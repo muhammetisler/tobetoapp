@@ -1,16 +1,37 @@
-# tobetoappv1
+TOBETO Mobil Uygulama Projesi
+Tobeto Mobil Uygulaması, kullanıcılarına iş dünyası ve girişimcilik konularında bilgi ve motivasyon sağlayan Tobeto platformunun mobil erişimini sunar. Bu uygulama, başarılı iş insanlarının hikayeleri, eğitim materyalleri ve rehberlik hizmetleri ile kullanıcıların iş hayatında daha etkili ve başarılı olmalarına yardımcı olmayı amaçlar.
 
-A new Flutter project.
+Proje Detayları
 
-## Getting Started
+✨Başlangıç ​​Ekranı
+Uygulama açıldığında gösterilen ilk ekran. Kullanıcı internet kontrolünü gerçekleştirir.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+✨Giriş Ekranı
+Kullanıcıların e-posta ve şifre ile giriş yapabileceği ekran.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✨Ana Sayfa Ekranı
+Kullanıcının giriş yaptıktan sonra karşılaştığı ana ekran.Kullanıcıya kişiselleştirilmiş içerik ve kısa yollar sunmak.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✨Profil and Profil Düzenleme Ekranı
+Kullanıcıların profillerini görüntüleyebileceği ve düzenleyebileceği ekranlar.
+
+✨Eğitim Ekranı
+Eğitim materyallerinin ve kurslarının listelendiği ekran. Kullanıcıların bilgi ve becerilerini geliştirebileceği eğitim kaynaklarına erişimini sağlamak.
+
+✨Katalog Ekranı
+Farklı iş kollarına ve konulara ait içeriklerin bulunduğu ekran. Kullanıcıların ilgilendikleri konulara göre içerik keşfetmelerini sağlamak.
+
+✨Takvim Ekranı
+Kullanıcıların etkinlikleri ve programları görüntüleyebileceği takvim ekranı.
+
+✨Başvurularım, Duyuru ve Haberler
+Kullanıcının yaptığı başvurular, duyurular, haberlere dair bilgi sağlayan ekranlar.
+
+✨Tobeto Ekranı
+Tobeto platformuna özgü çeşitli içeriklerin ve özelliklerin yer aldığı ekranlar.
+
+
+✨Ekip Üyeleri
+Muhammet Fatih İşler
+Zeynep Tunayabakan
